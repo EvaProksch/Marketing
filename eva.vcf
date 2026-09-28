@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Proksch;Eva;;Mag.;
+FN:Mag. Eva Proksch
+ORG:klar.werk
+TITLE:Marketing Strategin
+TEL;TYPE=CELL:+43 681 20150304
+EMAIL;TYPE=WORK,INTERNET:eva@klar-werk.at
+item1.URL:https://klar-werk.at
+item1.X-ABLabel:klar.werk
+item2.URL:https://yogainreturn.com
+item2.X-ABLabel:Yoga in Return
+END:VCARD
